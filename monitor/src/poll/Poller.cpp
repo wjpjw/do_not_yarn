@@ -3,18 +3,26 @@
 //
 
 #include "Poller.h"
+#include "gpuinfo.pb.h"
 
-Poller::Poller(int timeout_millisec, Vector<String> data_sources):timeout_millisec(timeout_millisec), context(1){
-    for(auto& d : data_sources){
-        Vector<String> lines;
-        boost::split(lines, d, boost::is_any_of(":"));
-        String ip=lines[0];
-        int port=boost::lexical_cast<int>(lines[1]);
-        add(ip, port, [ip,port](const Message& message){ // callback
-            std::cout<<ip<<":"<<port<<" says: "<<message.str()<<std::endl;
+Poller::Poller(int timeout_millisec, Vector<String> data_sources)
+        :timeout_millisec(timeout_millisec), context(1), data(std::make_unique<GPUData>())
+{
+    for(auto& data_source : data_sources){
+        auto id=parse_ip_port(data_source);
+        add(id.ip, id.port, [data_source, this](const Message& message){
+            /* callback code*/
+            std::cout<< data_source <<" says: "<<message.str()<<std::endl;
             if(message.size()==0)return; // ignore heart beats
-            // todo: update & publish gpu cluster info here
-            std::cout<<"Do something!"<<std::endl;
+            wjp::GPUs msg_gpus;
+            if(msg_gpus.ParseFromArray(message.data(), message.size())){
+                data->setGPUInfo(data_source, msg_gpus);
+                // todo: publish data
+            }
+            else{
+                throw std::runtime_error("Cannot parse protobuf message!");
+            }
+
         });
     }
     start();
@@ -36,6 +44,7 @@ void Poller::start(){
             else{
                 socket.onPollMiss();
             }
+            std::cout<<data->str()<<std::endl;
         }
     }
 }

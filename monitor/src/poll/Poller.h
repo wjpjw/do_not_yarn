@@ -8,7 +8,8 @@
 #include "wjp.h"
 #include "AutoSocket.h"
 #include <boost/algorithm/string.hpp>
-
+#include <memory>
+#include "data/GPUData.h"
 /* event loop starts on construction */
 class Poller{
 public:
@@ -20,6 +21,7 @@ private:
     Vector<PollItem> items;
     Context context;
     int timeout_millisec;
+    std::unique_ptr<GPUData> data;
 };
 
 
