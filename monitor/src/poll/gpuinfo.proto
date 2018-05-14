@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package wjp;  // c++ namespace
+option optimize_for = SPEED ;
+
+message GPU
+{
+    string     name = 1;
+    string     bus_id = 2;
+    int32      util_percent = 3;
+    int32      memory_percent = 4;
+    int32      power_percent = 5;
+};
+
+message GPUs
+{
+    repeated GPU        gpus = 1;
+}
