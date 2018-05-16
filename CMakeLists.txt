@@ -3,3 +3,6 @@ project(Do-Not-Yarn)
 set(CMAKE_CXX_STANDARD 14)
 add_subdirectory(gpurealtime)
 add_subdirectory(monitor)
+add_subdirectory(wjputil)
+add_subdirectory(test)
+
