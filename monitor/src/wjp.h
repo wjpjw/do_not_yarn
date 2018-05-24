@@ -11,6 +11,7 @@
 #include <sstream>
 #include <cstdio>
 #include <exception>
+#include <functional>
 #include <zmq.hpp>
 #include <boost/lexical_cast.hpp>
 

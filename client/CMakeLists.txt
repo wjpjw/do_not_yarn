@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.7)
+project(client)
+set(CMAKE_CXX_STANDARD 14)
+include_directories(/usr/local/include)
+link_directories(/opt/local/lib)
+aux_source_directory(. DIRSRCS)
+add_executable(client ${DIRSRCS})
+target_link_libraries(client boost_regex boost_timer boost_program_options zmq)

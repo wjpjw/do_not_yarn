@@ -10,7 +10,10 @@ include_directories(${Boost_INCLUDE_DIRS})
 
 if(Boost_FOUND)
     aux_source_directory(. DIRSRCS)
-    add_library(wjputil SHARED ${DIRSRCS})
-    target_link_libraries(wjputil ${Boost_LIBRARIES} data poll zmq protobuf)
+    include_directories(. ./session ./core)
+    add_subdirectory(session)
+    add_subdirectory(core)
+    add_executable(proxy ${DIRSRCS})
+    target_link_libraries(proxy ${Boost_LIBRARIES} session core zmq)
 endif()
 

@@ -10,7 +10,7 @@ include_directories(${Boost_INCLUDE_DIRS})
 
 if(Boost_FOUND)
     aux_source_directory(. DIRSRCS)
-    include_directories(. ./http ./poll)
+    include_directories(. ./data ./poll)
     add_subdirectory(data)
     add_subdirectory(poll)
     add_executable(monitor ${DIRSRCS} )
