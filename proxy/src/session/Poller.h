@@ -8,6 +8,7 @@
 #include "wjp.h"
 #include "AutoSocket.h"
 #include "TestSocket.h"
+
 class Poller{
 public:
     Poller(int timeout_millisec);
@@ -15,12 +16,15 @@ public:
     void start();
 private:
     Vector<AutoSocket<ZMQ_ROUTER>> sockets;
-    Vector<TestSocket<ZMQ_ROUTER>> sockets2;
-
     Vector<PollItem> items;
     Context context;
     int timeout_millisec;
 };
 
+#ifdef WJP_TEST
+extern void test_router_connect();
+extern void test_router();
+extern void test_poller();
+#endif
 
 #endif //DATAACCESSPROXY_POLLER_H

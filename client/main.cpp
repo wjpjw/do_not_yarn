@@ -7,53 +7,141 @@
 //
 
 #include "wjp.h"
-//  Receive 0MQ string from socket and convert into string
-static std::string s_recv (zmq::socket_t & socket) {
+#include <future>
 
-    zmq::message_t message;
-    socket.recv(&message);
-
-    return std::string(static_cast<char*>(message.data()), message.size());
+/*
+ 测试200个客户端，连续对proxy进行10次请求，形成潮涌。
+ 客户端测试线程会分别记录每次请求的回应消息与延时。
+ */
+void test_200_flux() {
+    Vector<std::future<String>> tasks;
+    for(int task_id=0;task_id<200;task_id++)
+    {
+        auto ten_requests=[task_id](){
+            StringStream ss;
+            zmq::context_t context(1);
+            zmq::socket_t requester(context, ZMQ_REQ);
+            requester.connect("tcp://localhost:5559");
+            String id="Task"+boost::lexical_cast<String>(task_id);
+            for( int request_id = 0; request_id < 10; request_id++) {
+                auto start=linux_clock();
+                s_send (requester, id+" says: "+boost::lexical_cast<String>(request_id));
+                auto time_elapsed=linux_clock()-start;
+                ss << "Response No. "<< request_id << " [" << s_recv (requester) << "] "
+                   << time_elapsed<<"ms\n";
+            }
+            return ss.str();
+        };
+        tasks.push_back(std::async(std::launch::async, ten_requests));
+    }
+    for(int i=0;i<tasks.size();i++)
+    {
+        std::cout<<i<<":"<<std::endl<<tasks[i].get()<<std::endl<<std::endl<<std::endl;
+    }
 }
 
-//  Convert string to 0MQ string and send to socket
-static bool s_send (zmq::socket_t & socket, const std::string & string) {
-
-    zmq::message_t message(string.size());
-    memcpy (message.data(), string.data(), string.size());
-
-    bool rc = socket.send (message);
-    return (rc);
+/*
+ 测试400个客户端，每隔0~0.3秒（随机取值）对proxy进行一次访问，每个客户端进行10次请求。
+ 客户端测试线程会分别记录每次请求的回应消息与延时。
+ */
+void test_400_intense() {
+    Vector<std::future<String>> tasks;
+    for(int task_id=0;task_id<400;task_id++)
+    {
+        auto ten_requests=[task_id](){
+            StringStream ss;
+            zmq::context_t context(1);
+            zmq::socket_t requester(context, ZMQ_REQ);
+            requester.connect("tcp://localhost:5559");
+            String id="Task"+boost::lexical_cast<String>(task_id);
+            for( int request_id = 0; request_id < 10; request_id++) {
+                auto start=linux_clock();
+                s_send (requester, id+" says: "+boost::lexical_cast<String>(request_id));
+                auto time_elapsed=linux_clock()-start;
+                ss << "Response No. "<< request_id << " [" << s_recv (requester) << "] "
+                   << time_elapsed<<"ms\n";
+                linux_sleep_msecs(within(300));
+            }
+            return ss.str();
+        };
+        tasks.push_back(std::async(std::launch::async, ten_requests));
+    }
+    for(int i=0;i<tasks.size();i++)
+    {
+        std::cout<<i<<":"<<std::endl<<tasks[i].get()<<std::endl<<std::endl<<std::endl;
+    }
 }
 
-//  Sends string as 0MQ string, as multipart non-terminal
-static bool s_sendmore (zmq::socket_t & socket, const std::string & string) {
-
-    zmq::message_t message(string.size());
-    memcpy (message.data(), string.data(), string.size());
-
-    bool rc = socket.send (message, ZMQ_SNDMORE);
-    return (rc);
+/*
+ 测试200个客户端，每隔0~0.3秒（随机取值）对proxy进行一次访问，每个客户端进行10次请求。
+ 客户端测试线程会分别记录每次请求的回应消息与延时。
+ */
+void test_200_intense(){
+    Vector<std::future<String>> tasks;
+    for(int task_id=0;task_id<200;task_id++)
+    {
+        auto ten_requests=[task_id](){
+            StringStream ss;
+            zmq::context_t context(1);
+            zmq::socket_t requester(context, ZMQ_REQ);
+            requester.connect("tcp://localhost:5559");
+            String id="Task"+boost::lexical_cast<String>(task_id);
+            for( int request_id = 0; request_id < 10; request_id++) {
+                auto start=linux_clock();
+                s_send (requester, id+" says: "+boost::lexical_cast<String>(request_id));
+                auto time_elapsed=linux_clock()-start;
+                ss << "Response No. "<< request_id << " [" << s_recv (requester) << "] "
+                   << time_elapsed<<"ms\n";
+                linux_sleep_msecs(within(300));
+            }
+            return ss.str();
+        };
+        tasks.push_back(std::async(std::launch::async, ten_requests));
+    }
+    for(int i=0;i<tasks.size();i++)
+    {
+        std::cout<<i<<":"<<std::endl<<tasks[i].get()<<std::endl<<std::endl<<std::endl;
+    }
 }
+
+
+/*
+ 测试200个客户端，每隔0~3秒（随机取值）对proxy进行一次访问，每个客户端进行10次请求。
+ 客户端测试线程会分别记录每次请求的回应消息与延时。
+ */
+void test_200(){
+    Vector<std::future<String>> tasks;
+    for(int task_id=0;task_id<200;task_id++)
+    {
+        auto ten_requests=[task_id](){
+            StringStream ss;
+            zmq::context_t context(1);
+            zmq::socket_t requester(context, ZMQ_REQ);
+            requester.connect("tcp://localhost:5559");
+            String id="Task"+boost::lexical_cast<String>(task_id);
+            for( int request_id = 0; request_id < 10; request_id++) {
+                auto start=linux_clock();
+                s_send (requester, id+" says: "+boost::lexical_cast<String>(request_id));
+                auto time_elapsed=linux_clock()-start;
+                ss << "Response No. "<< request_id << " [" << s_recv (requester) << "] "
+                        << time_elapsed<<"ms\n";
+                linux_sleep_msecs(within(3000));
+            }
+            return ss.str();
+        };
+        tasks.push_back(std::async(std::launch::async, ten_requests));
+    }
+    for(int i=0;i<tasks.size();i++)
+    {
+        std::cout<<i<<":"<<std::endl<<tasks[i].get()<<std::endl<<std::endl<<std::endl;
+    }
+}
+
 int main (int argc, char** argv)
 {
     try
     {
-        zmq::context_t context(1);
-
-        zmq::socket_t requester(context, ZMQ_REQ);
-        requester.connect("tcp://localhost:"+boost::lexical_cast<String>(CONTROL_PORT));
-
-        for( int request = 0 ; request < 10 ; request++) {
-
-            s_send (requester, "Hello");
-            std::string string = s_recv (requester);
-
-            std::cout << "Received reply " << request
-                      << " [" << string << "]" << std::endl;
-        }
-
-
+        test_200_flux();
     }
     catch(const std::exception& e)
     {

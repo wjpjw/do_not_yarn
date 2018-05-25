@@ -23,14 +23,14 @@
 #include <mutex>
 #include <sys/time.h>
 #include <time.h>
-
+#include "zhelper.h"
 /* Some Program Level Constants */
 #define WJP_TEST
 #define VERSION "1.0-Alpha"
 #define PROGRAM_NAME "Data Access Client"
 #define HEARTBEAT_INTERVAL 1000     /* clients are supposed to send at least an empty message every 1s */
-#define CONTROL_PORT 36592
-#define DATA_PORT   32451
+#define CONTROL_PORT 12345
+#define DATA_PORT   5555
 
 /* Camel Casing Types */
 template<typename T>

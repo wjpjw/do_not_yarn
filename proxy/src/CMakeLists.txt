@@ -10,7 +10,7 @@ include_directories(${Boost_INCLUDE_DIRS})
 
 if(Boost_FOUND)
     aux_source_directory(. DIRSRCS)
-    include_directories(. ./session ./core)
+    include_directories(. ./sess ./core ./session)
     add_subdirectory(session)
     add_subdirectory(core)
     add_executable(proxy ${DIRSRCS})

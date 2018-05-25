@@ -23,11 +23,12 @@
 #include <mutex>
 #include <sys/time.h>
 #include <time.h>
+#include "zhelper.h"
 
 /* Some Program Level Constants */
 #define WJP_TEST
 #define VERSION "1.0-Alpha"
-#define PROGRAM_NAME "Data Access Proxy"
+#define PROGRAM_NAME "Data Access Proxy (proxy)"
 #define HEARTBEAT_INTERVAL 1000     /* clients are supposed to send at least an empty message every 1s */
 #define CONTROL_PORT 36592
 #define DATA_PORT   32451
@@ -56,8 +57,7 @@ using Mutex         =   std::mutex;
 /* Some Inline Functions */
 
 /* linux high resolution sleep */
-static inline void linux_sleep_msecs(int msecs)
-{
+static inline void linux_sleep_msecs(int msecs) {
     struct timespec t;
     t.tv_sec = msecs / 1000;
     t.tv_nsec = (msecs % 1000) * 1000000;
@@ -65,10 +65,12 @@ static inline void linux_sleep_msecs(int msecs)
 }
 
 /*  linux current time */
-static inline int64_t linux_clock(){
+static inline int64_t linux_clock() {
     struct timeval tv;
     gettimeofday (&tv, NULL);
     return (int64_t) (tv.tv_sec * 1000 + tv.tv_usec / 1000);
 }
+
+
 
 #endif //DATAACCESSPROXY_WJP_H

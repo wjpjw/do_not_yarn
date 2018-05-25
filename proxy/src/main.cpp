@@ -33,12 +33,14 @@ int main(int argc, char** argv) {
             std::cout << PROGRAM_NAME <<"\n\nusage: proxy --port [port1] --acceptor [port2] \n\n" << desc << std::endl;
             return EXIT_SUCCESS;
         }
-        int data_port = 5555;    // default port
-        int control_port = 1;   // default query-and-push interval
+        int data_port = 5555;       // default port
+        int control_port = 12345;   // default query-and-push interval
         if(vm.count("port")) data_port = vm["port"].as<int>();
         if(vm.count("accept")) control_port = vm["accept"].as<int>();
         /* application entry */
-        Poller wjp{10};
+
+        test_poller();
+
     }
     catch(po::error& e)
     {

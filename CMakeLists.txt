@@ -5,4 +5,5 @@ add_subdirectory(gpurealtime)
 add_subdirectory(monitor)
 add_subdirectory(client)
 add_subdirectory(proxy)
+add_subdirectory(z-reactor)
 
