@@ -28,7 +28,9 @@ void RouterSocket::recvFromReq()
     String content=str(content_message);
     //这里必须以值语义捕获addr与content，复制到线程栈中。用户发过来的都是很小的请求报文，复制一下问题不大。
     threadpool.execute<Functor>([this, addr, content](){
-        this->callback(addr, content, context);
+        Socket requester(context, ZMQ_REQ);
+        requester.connect("inproc://"+boost::lexical_cast<String>(INPROC_PORT));
+        s_send(requester, callback(addr, content));
     });
 }
 

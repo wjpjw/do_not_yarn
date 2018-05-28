@@ -46,7 +46,7 @@ using Message       =   zmq::message_t;
 using Context       =   zmq::context_t;
 using Socket        =   zmq::socket_t;
 using PollItem      =   zmq::pollitem_t; // native pollitem_t
-using Callback      =   std::function<void(String addr, String content, Context& context)>;
+using Callback      =   std::function<String(String addr, String content)>;
 
 using Functor       =   std::function<void(void)>;
 using Mutex         =   std::mutex;
