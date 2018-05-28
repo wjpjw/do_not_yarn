@@ -5,8 +5,8 @@
 #ifndef DO_NOT_YARN_SOCKET_H
 #define DO_NOT_YARN_SOCKET_H
 
-class RouterSocket {
-
+namespace SessionAPI {
+    extern void start_server(int port, int poller_timeout, int nr_iothreads);
 };
 
 

@@ -6,13 +6,13 @@
 #define DO_NOT_YARN_ROUTERPOLLER_H
 
 #include "zreactor.h"
-#include "RouterSocket.h"
 
 class RouterPoller {
 public:
-    RouterPoller(int port, Callback callback, int timeout_millisec=-1, int nr_threads=1);
+    RouterPoller(int port, Callback callback, int timeout_millisec=-1, int nr_iothreads=1, int nr_workerthreads=10);
     void start();
 private:
+    int nr_workerthreads;
     Context context;
     int timeout_millisec;
     Callback callback;

@@ -6,12 +6,13 @@
 
 int main()
 {
-    auto callback=[](Message& addr, Message& content, RouterSocket& socket){
-        std::cout<<content.str()<<std::endl;
-        Message response=msg("Now I read: "+str(content));
-        socket.sendToReq(addr, response);
+    auto callback=[](String addr, String content,  Context& context){
+        zmq::socket_t requester(context, ZMQ_REQ);
+        requester.connect("inproc://"+boost::lexical_cast<String>(INPROC_PORT));
+        String inproc_ret=addr+content;
+        s_send(requester, inproc_ret);
     };
-    RouterPoller poller{5559, callback};
+    RouterPoller poller{5559, callback, -1, 10, 30};
     poller.start();
     return 0;
 }

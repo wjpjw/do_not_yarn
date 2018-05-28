@@ -26,6 +26,8 @@
 #include "zhelper.h"
 
 #define HEARTBEAT_INTERVAL 1000
+#define INPROC_PORT 31458
+#define INPROC_DELIM "\n"
 
 class RouterSocket;
 
@@ -44,7 +46,7 @@ using Message       =   zmq::message_t;
 using Context       =   zmq::context_t;
 using Socket        =   zmq::socket_t;
 using PollItem      =   zmq::pollitem_t; // native pollitem_t
-using Callback      =   std::function<void(Message& addr, Message& content, RouterSocket& socket)>;
+using Callback      =   std::function<void(String addr, String content, Context& context)>;
 
 using Functor       =   std::function<void(void)>;
 using Mutex         =   std::mutex;

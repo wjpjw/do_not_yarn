@@ -1,0 +1,1985 @@
+/Users/wjp/CLionProjects/cmake-build-debug/z-reactor/example/zreactor-example
+pos:5:Task0 says: 0
+Now I respond to: Task0 says: 0
+pos:5:Task6 says: 0
+Now I respond to: Task6 says: 0
+pos:5:Task5 says: 0
+Now I respond to: Task5 says: 0
+pos:5:Task0 says: 1
+Now I respond to: Task0 says: 1
+pos:5:Task6 says: 1
+Now I respond to: Task6 says: 1
+pos:5:Task4 says: 0
+Now I respond to: Task4 says: 0
+pos:5:Task5 says: 1
+Now I respond to: Task5 says: 1
+pos:5:Task3 says: 0
+Now I respond to: Task3 says: 0
+pos:5:Task2 says: 0
+Now I respond to: Task2 says: 0
+pos:5:Task0 says: 2
+Now I respond to: Task0 says: 2
+pos:5:Task6 says: 2
+Now I respond to: Task6 says: 2
+pos:5:Task4 says: 1
+Now I respond to: Task4 says: 1
+pos:5:Task5 says: 2
+Now I respond to: Task5 says: 2
+pos:5:Task1 says: 0
+Now I respond to: Task1 says: 0
+pos:5:Task7 says: 0
+Now I respond to: Task7 says: 0
+pos:5:Task3 says: 1
+Now I respond to: Task3 says: 1
+pos:5:Task2 says: 1
+Now I respond to: Task2 says: 1
+pos:5:Task0 says: 3
+Now I respond to: Task0 says: 3
+pos:5:Task8 says: 0
+Now I respond to: Task8 says: 0
+pos:5:Task9 says: 0
+Now I respond to: Task9 says: 0
+pos:5:Task10 says: 0
+Now I respond to: Task10 says: 0
+pos:5:Task11 says: 0
+Now I respond to: Task11 says: 0
+pos:5:Task6 says: 3
+Now I respond to: Task6 says: 3
+pos:5:Task4 says: 2
+Now I respond to: Task4 says: 2
+pos:5:Task5 says: 3
+Now I respond to: Task5 says: 3
+pos:5:Task1 says: 1
+Now I respond to: Task1 says: 1
+pos:5:Task7 says: 1
+Now I respond to: Task7 says: 1
+pos:5:Task12 says: 0
+Now I respond to: Task12 says: 0
+pos:5:Task3 says: 2
+Now I respond to: Task3 says: 2
+pos:5:Task2 says: 2
+Now I respond to: Task2 says: 2
+pos:5:Task17 says: 0
+Now I respond to: Task17 says: 0
+pos:5:Task18 says: 0
+Now I respond to: Task18 says: 0
+pos:5:Task13 says: 0
+Now I respond to: Task13 says: 0
+pos:5:Task14 says: 0
+Now I respond to: Task14 says: 0
+pos:5:Task0 says: 4
+Now I respond to: Task0 says: 4
+pos:5:Task15 says: 0
+Now I respond to: Task15 says: 0
+pos:5:Task16 says: 0
+Now I respond to: Task16 says: 0
+pos:5:Task20 says: 0
+Now I respond to: Task20 says: 0
+pos:5:Task19 says: 0
+Now I respond to: Task19 says: 0
+pos:5:Task21 says: 0
+Now I respond to: Task21 says: 0
+pos:5:Task23 says: 0
+Now I respond to: Task23 says: 0
+pos:5:Task22 says: 0
+Now I respond to: Task22 says: 0
+pos:5:Task24 says: 0
+Now I respond to: Task24 says: 0
+pos:5:Task25 says: 0
+Now I respond to: Task25 says: 0
+pos:5:Task26 says: 0
+Now I respond to: Task26 says: 0
+pos:5:Task33 says: 0
+Now I respond to: Task33 says: 0
+pos:5:Task29 says: 0
+Now I respond to: Task29 says: 0
+pos:5:Task8 says: 1
+Now I respond to: Task8 says: 1
+pos:5:Task9 says: 1
+Now I respond to: Task9 says: 1
+pos:5:Task39 says: 0
+Now I respond to: Task39 says: 0
+pos:5:Task40 says: 0
+Now I respond to: Task40 says: 0
+pos:5:Task27 says: 0
+Now I respond to: Task27 says: 0
+pos:5:Task28 says: 0
+Now I respond to: Task28 says: 0
+pos:5:Task45 says: 0
+Now I respond to: Task45 says: 0
+pos:5:Task49 says: 0
+Now I respond to: Task49 says: 0
+pos:5:Task10 says: 1
+Now I respond to: Task10 says: 1
+pos:5:Task11 says: 1
+Now I respond to: Task11 says: 1
+pos:5:Task6 says: 4
+Now I respond to: Task6 says: 4
+pos:5:Task4 says: 3
+Now I respond to: Task4 says: 3
+pos:5:Task5 says: 4
+Now I respond to: Task5 says: 4
+pos:5:Task1 says: 2
+Now I respond to: Task1 says: 2
+pos:5:Task7 says: 2
+Now I respond to: Task7 says: 2
+pos:5:Task12 says: 1
+Now I respond to: Task12 says: 1
+pos:5:Task3 says: 3
+Now I respond to: Task3 says: 3
+pos:5:Task2 says: 3
+Now I respond to: Task2 says: 3
+pos:5:Task13 says: 1
+Now I respond to: Task13 says: 1
+pos:5:Task14 says: 1
+Now I respond to: Task14 says: 1
+pos:5:Task0 says: 5
+Now I respond to: Task0 says: 5
+pos:5:Task15 says: 1
+Now I respond to: Task15 says: 1
+pos:5:Task16 says: 1
+Now I respond to: Task16 says: 1
+pos:5:Task17 says: 1
+Now I respond to: Task17 says: 1
+pos:5:Task18 says: 1
+Now I respond to: Task18 says: 1
+pos:5:Task20 says: 1
+Now I respond to: Task20 says: 1
+pos:5:Task19 says: 1
+Now I respond to: Task19 says: 1
+pos:5:Task21 says: 1
+Now I respond to: Task21 says: 1
+pos:5:Task23 says: 1
+Now I respond to: Task23 says: 1
+pos:5:Task22 says: 1
+Now I respond to: Task22 says: 1
+pos:5:Task24 says: 1
+Now I respond to: Task24 says: 1
+pos:5:Task25 says: 1
+Now I respond to: Task25 says: 1
+pos:5:Task26 says: 1
+Now I respond to: Task26 says: 1
+pos:5:Task33 says: 1
+Now I respond to: Task33 says: 1
+pos:5:Task29 says: 1
+Now I respond to: Task29 says: 1
+pos:5:Task8 says: 2
+Now I respond to: Task8 says: 2
+pos:5:Task9 says: 2
+Now I respond to: Task9 says: 2
+pos:5:Task39 says: 1
+Now I respond to: Task39 says: 1
+pos:5:Task40 says: 1
+Now I respond to: Task40 says: 1
+pos:5:Task27 says: 1
+Now I respond to: Task27 says: 1
+pos:5:Task28 says: 1
+Now I respond to: Task28 says: 1
+pos:5:Task45 says: 1
+Now I respond to: Task45 says: 1
+pos:5:Task49 says: 1
+Now I respond to: Task49 says: 1
+pos:5:Task54 says: 0
+Now I respond to: Task54 says: 0
+pos:5:Task10 says: 2
+Now I respond to: Task10 says: 2
+pos:5:Task11 says: 2
+Now I respond to: Task11 says: 2
+pos:5:Task6 says: 5
+Now I respond to: Task6 says: 5
+pos:5:Task4 says: 4
+Now I respond to: Task4 says: 4
+pos:5:Task5 says: 5
+Now I respond to: Task5 says: 5
+pos:5:Task1 says: 3
+Now I respond to: Task1 says: 3
+pos:5:Task7 says: 3
+Now I respond to: Task7 says: 3
+pos:5:Task12 says: 2
+Now I respond to: Task12 says: 2
+pos:5:Task3 says: 4
+Now I respond to: Task3 says: 4
+pos:5:Task2 says: 4
+Now I respond to: Task2 says: 4
+pos:5:Task13 says: 2
+Now I respond to: Task13 says: 2
+pos:5:Task14 says: 2
+Now I respond to: Task14 says: 2
+pos:5:Task0 says: 6
+Now I respond to: Task0 says: 6
+pos:5:Task15 says: 2
+Now I respond to: Task15 says: 2
+pos:5:Task16 says: 2
+Now I respond to: Task16 says: 2
+pos:5:Task17 says: 2
+Now I respond to: Task17 says: 2
+pos:5:Task18 says: 2
+Now I respond to: Task18 says: 2
+pos:5:Task20 says: 2
+Now I respond to: Task20 says: 2
+pos:5:Task19 says: 2
+Now I respond to: Task19 says: 2
+pos:5:Task21 says: 2
+Now I respond to: Task21 says: 2
+pos:5:Task23 says: 2
+Now I respond to: Task23 says: 2
+pos:5:Task22 says: 2
+Now I respond to: Task22 says: 2
+pos:5:Task24 says: 2
+Now I respond to: Task24 says: 2
+pos:5:Task25 says: 2
+Now I respond to: Task25 says: 2
+pos:5:Task26 says: 2
+Now I respond to: Task26 says: 2
+pos:5:Task27 says: 2
+Now I respond to: Task27 says: 2
+pos:5:Task28 says: 2
+Now I respond to: Task28 says: 2
+pos:5:Task40 says: 2
+Now I respond to: Task40 says: 2
+pos:5:Task45 says: 2
+Now I respond to: Task45 says: 2
+pos:5:Task49 says: 2
+Now I respond to: Task49 says: 2
+pos:5:Task56 says: 0
+Now I respond to: Task56 says: 0
+pos:5:Task54 says: 1
+Now I respond to: Task54 says: 1
+pos:5:Task11 says: 3
+Now I respond to: Task11 says: 3
+pos:5:Task6 says: 6
+Now I respond to: Task6 says: 6
+pos:5:Task10 says: 3
+Now I respond to: Task10 says: 3
+pos:5:Task4 says: 5
+Now I respond to: Task4 says: 5
+pos:5:Task5 says: 6
+Now I respond to: Task5 says: 6
+pos:5:Task7 says: 4
+Now I respond to: Task7 says: 4
+pos:5:Task1 says: 4
+Now I respond to: Task1 says: 4
+pos:5:Task12 says: 3
+Now I respond to: Task12 says: 3
+pos:5:Task2 says: 5
+Now I respond to: Task2 says: 5
+pos:5:Task13 says: 3
+Now I respond to: Task13 says: 3
+pos:5:Task14 says: 3
+Now I respond to: Task14 says: 3
+pos:5:Task3 says: 5
+Now I respond to: Task3 says: 5
+pos:5:Task39 says: 2
+Now I respond to: Task39 says: 2
+pos:5:Task15 says: 3
+Now I respond to: Task15 says: 3
+pos:5:Task0 says: 7
+Now I respond to: Task0 says: 7
+pos:5:Task9 says: 3
+Now I respond to: Task9 says: 3
+pos:5:Task8 says: 3
+Now I respond to: Task8 says: 3
+pos:5:Task19 says: 3
+Now I respond to: Task19 says: 3
+pos:5:Task20 says: 3
+Now I respond to: Task20 says: 3
+pos:5:Task23 says: 3
+Now I respond to: Task23 says: 3
+pos:5:Task21 says: 3
+Now I respond to: Task21 says: 3
+pos:5:Task22 says: 3
+Now I respond to: Task22 says: 3
+pos:5:Task18 says: 3
+Now I respond to: Task18 says: 3
+pos:5:Task24 says: 3
+Now I respond to: Task24 says: 3
+pos:5:Task26 says: 3
+Now I respond to: Task26 says: 3
+pos:5:Task25 says: 3
+Now I respond to: Task25 says: 3
+pos:5:Task17 says: 3
+Now I respond to: Task17 says: 3
+pos:5:Task47 says: 0
+Now I respond to: Task47 says: 0
+pos:5:Task50 says: 0
+Now I respond to: Task50 says: 0
+pos:5:Task48 says: 0
+Now I respond to: Task48 says: 0
+pos:5:Task9 says: 4
+Now I respond to: Task9 says: 4
+pos:5:Task39 says: 3
+Now I respond to: Task39 says: 3
+pos:5:Task27 says: 3
+Now I respond to: Task27 says: 3
+pos:5:Task40 says: 3
+Now I respond to: Task40 says: 3
+pos:5:Task16 says: 3
+Now I respond to: Task16 says: 3
+pos:5:Task56 says: 1
+Now I respond to: Task56 says: 1
+pos:5:Task54 says: 2
+Now I respond to: Task54 says: 2
+pos:5:Task31 says: 0
+Now I respond to: Task31 says: 0
+pos:5:Task32 says: 0
+Now I respond to: Task32 says: 0
+pos:5:Task49 says: 3
+Now I respond to: Task49 says: 3
+pos:5:Task30 says: 0
+Now I respond to: Task30 says: 0
+pos:5:Task34 says: 0
+Now I respond to: Task34 says: 0
+pos:5:Task35 says: 0
+Now I respond to: Task35 says: 0
+pos:5:Task36 says: 0
+Now I respond to: Task36 says: 0
+pos:5:Task37 says: 0
+Now I respond to: Task37 says: 0
+pos:5:Task42 says: 0
+Now I respond to: Task42 says: 0
+pos:5:Task43 says: 0
+Now I respond to: Task43 says: 0
+pos:5:Task41 says: 0
+Now I respond to: Task41 says: 0
+pos:5:Task44 says: 0
+Now I respond to: Task44 says: 0
+pos:5:Task46 says: 0
+Now I respond to: Task46 says: 0
+pos:5:Task8 says: 4
+Now I respond to: Task8 says: 4
+pos:5:Task53 says: 0
+Now I respond to: Task53 says: 0
+pos:5:Task51 says: 0
+Now I respond to: Task51 says: 0
+pos:5:Task55 says: 0
+Now I respond to: Task55 says: 0
+pos:5:Task63 says: 0
+Now I respond to: Task63 says: 0
+pos:5:Task52 says: 0
+Now I respond to: Task52 says: 0
+pos:5:Task61 says: 0
+Now I respond to: Task61 says: 0
+pos:5:Task64 says: 0
+Now I respond to: Task64 says: 0
+pos:5:Task57 says: 0
+Now I respond to: Task57 says: 0
+pos:5:Task62 says: 0
+Now I respond to: Task62 says: 0
+pos:5:Task58 says: 0
+Now I respond to: Task58 says: 0
+pos:5:Task71 says: 0
+Now I respond to: Task71 says: 0
+pos:5:Task60 says: 0
+Now I respond to: Task60 says: 0
+pos:5:Task10 says: 4
+Now I respond to: Task10 says: 4
+pos:5:Task59 says: 0
+Now I respond to: Task59 says: 0
+pos:5:Task38 says: 0
+Now I respond to: Task38 says: 0
+pos:5:Task4 says: 6
+Now I respond to: Task4 says: 6
+pos:5:Task6 says: 7
+Now I respond to: Task6 says: 7
+pos:5:Task11 says: 4
+Now I respond to: Task11 says: 4
+pos:5:Task45 says: 3
+Now I respond to: Task45 says: 3
+pos:5:Task28 says: 3
+Now I respond to: Task28 says: 3
+pos:5:Task29 says: 2
+Now I respond to: Task29 says: 2
+pos:5:Task2 says: 6
+Now I respond to: Task2 says: 6
+pos:5:Task3 says: 6
+Now I respond to: Task3 says: 6
+pos:5:Task13 says: 4
+Now I respond to: Task13 says: 4
+pos:5:Task14 says: 4
+Now I respond to: Task14 says: 4
+pos:5:Task15 says: 4
+Now I respond to: Task15 says: 4
+pos:5:Task0 says: 8
+Now I respond to: Task0 says: 8
+pos:5:Task12 says: 4
+Now I respond to: Task12 says: 4
+pos:5:Task16 says: 4
+Now I respond to: Task16 says: 4
+pos:5:Task17 says: 4
+Now I respond to: Task17 says: 4
+pos:5:Task20 says: 4
+Now I respond to: Task20 says: 4
+pos:5:Task21 says: 4
+Now I respond to: Task21 says: 4
+pos:5:Task19 says: 4
+Now I respond to: Task19 says: 4
+pos:5:Task18 says: 4
+Now I respond to: Task18 says: 4
+pos:5:Task33 says: 2
+Now I respond to: Task33 says: 2
+pos:5:Task5 says: 7
+Now I respond to: Task5 says: 7
+pos:5:Task1 says: 5
+Now I respond to: Task1 says: 5
+pos:5:Task7 says: 5
+Now I respond to: Task7 says: 5
+pos:5:Task23 says: 4
+Now I respond to: Task23 says: 4
+pos:5:Task22 says: 4
+Now I respond to: Task22 says: 4
+pos:5:Task39 says: 4
+Now I respond to: Task39 says: 4
+pos:5:Task40 says: 4
+Now I respond to: Task40 says: 4
+pos:5:Task24 says: 4
+Now I respond to: Task24 says: 4
+pos:5:Task25 says: 4
+Now I respond to: Task25 says: 4
+pos:5:Task26 says: 4
+Now I respond to: Task26 says: 4
+pos:5:Task47 says: 1
+Now I respond to: Task47 says: 1
+pos:5:Task50 says: 1
+Now I respond to: Task50 says: 1
+pos:5:Task48 says: 1
+Now I respond to: Task48 says: 1
+pos:5:Task9 says: 5
+Now I respond to: Task9 says: 5
+pos:5:Task27 says: 4
+Now I respond to: Task27 says: 4
+pos:5:Task28 says: 4
+Now I respond to: Task28 says: 4
+pos:5:Task45 says: 4
+Now I respond to: Task45 says: 4
+pos:5:Task49 says: 4
+Now I respond to: Task49 says: 4
+pos:5:Task54 says: 3
+Now I respond to: Task54 says: 3
+pos:5:Task56 says: 2
+Now I respond to: Task56 says: 2
+pos:5:Task31 says: 1
+Now I respond to: Task31 says: 1
+pos:5:Task32 says: 1
+Now I respond to: Task32 says: 1
+pos:5:Task30 says: 1
+Now I respond to: Task30 says: 1
+pos:5:Task34 says: 1
+Now I respond to: Task34 says: 1
+pos:5:Task35 says: 1
+Now I respond to: Task35 says: 1
+pos:5:Task36 says: 1
+Now I respond to: Task36 says: 1
+pos:5:Task37 says: 1
+Now I respond to: Task37 says: 1
+pos:5:Task38 says: 1
+Now I respond to: Task38 says: 1
+pos:5:Task42 says: 1
+Now I respond to: Task42 says: 1
+pos:5:Task43 says: 1
+Now I respond to: Task43 says: 1
+pos:5:Task41 says: 1
+Now I respond to: Task41 says: 1
+pos:5:Task44 says: 1
+Now I respond to: Task44 says: 1
+pos:5:Task46 says: 1
+Now I respond to: Task46 says: 1
+pos:5:Task8 says: 5
+Now I respond to: Task8 says: 5
+pos:5:Task53 says: 1
+Now I respond to: Task53 says: 1
+pos:5:Task55 says: 1
+Now I respond to: Task55 says: 1
+pos:5:Task57 says: 1
+Now I respond to: Task57 says: 1
+pos:5:Task60 says: 1
+Now I respond to: Task60 says: 1
+pos:5:Task51 says: 1
+Now I respond to: Task51 says: 1
+pos:5:Task52 says: 1
+Now I respond to: Task52 says: 1
+pos:5:Task63 says: 1
+Now I respond to: Task63 says: 1
+pos:5:Task64 says: 1
+Now I respond to: Task64 says: 1
+pos:5:Task61 says: 1
+Now I respond to: Task61 says: 1
+pos:5:Task62 says: 1
+Now I respond to: Task62 says: 1
+pos:5:Task58 says: 1
+Now I respond to: Task58 says: 1
+pos:5:Task71 says: 1
+Now I respond to: Task71 says: 1
+pos:5:Task59 says: 1
+Now I respond to: Task59 says: 1
+pos:5:Task67 says: 0
+Now I respond to: Task67 says: 0
+pos:5:Task66 says: 0
+Now I respond to: Task66 says: 0
+pos:5:Task69 says: 0
+Now I respond to: Task69 says: 0
+pos:5:Task74 says: 0
+Now I respond to: Task74 says: 0
+pos:5:Task73 says: 0
+Now I respond to: Task73 says: 0
+pos:5:Task65 says: 0
+Now I respond to: Task65 says: 0
+pos:5:Task29 says: 3
+Now I respond to: Task29 says: 3
+pos:5:Task68 says: 0
+Now I respond to: Task68 says: 0
+pos:5:Task70 says: 0
+Now I respond to: Task70 says: 0
+pos:5:Task75 says: 0
+Now I respond to: Task75 says: 0
+pos:5:Task33 says: 3
+Now I respond to: Task33 says: 3
+pos:5:Task81 says: 0
+Now I respond to: Task81 says: 0
+pos:5:Task10 says: 5
+Now I respond to: Task10 says: 5
+pos:5:Task11 says: 5
+Now I respond to: Task11 says: 5
+pos:5:Task6 says: 8
+Now I respond to: Task6 says: 8
+pos:5:Task4 says: 7
+Now I respond to: Task4 says: 7
+pos:5:Task5 says: 8
+Now I respond to: Task5 says: 8
+pos:5:Task1 says: 6
+Now I respond to: Task1 says: 6
+pos:5:Task7 says: 6
+Now I respond to: Task7 says: 6
+pos:5:Task12 says: 5
+Now I respond to: Task12 says: 5
+pos:5:Task3 says: 7
+Now I respond to: Task3 says: 7
+pos:5:Task2 says: 7
+Now I respond to: Task2 says: 7
+pos:5:Task13 says: 5
+Now I respond to: Task13 says: 5
+pos:5:Task14 says: 5
+Now I respond to: Task14 says: 5
+pos:5:Task0 says: 9
+Now I respond to: Task0 says: 9
+pos:5:Task15 says: 5
+Now I respond to: Task15 says: 5
+pos:5:Task16 says: 5
+Now I respond to: Task16 says: 5
+pos:5:Task17 says: 5
+Now I respond to: Task17 says: 5
+pos:5:Task18 says: 5
+Now I respond to: Task18 says: 5
+pos:5:Task20 says: 5
+Now I respond to: Task20 says: 5
+pos:5:Task19 says: 5
+Now I respond to: Task19 says: 5
+pos:5:Task50 says: 2
+Now I respond to: Task50 says: 2
+pos:5:Task47 says: 2
+Now I respond to: Task47 says: 2
+pos:5:Task9 says: 6
+Now I respond to: Task9 says: 6
+pos:5:Task48 says: 2
+Now I respond to: Task48 says: 2
+pos:5:Task26 says: 5
+Now I respond to: Task26 says: 5
+pos:5:Task25 says: 5
+Now I respond to: Task25 says: 5
+pos:5:Task24 says: 5
+Now I respond to: Task24 says: 5
+pos:5:Task22 says: 5
+Now I respond to: Task22 says: 5
+pos:5:Task39 says: 5
+Now I respond to: Task39 says: 5
+pos:5:Task23 says: 5
+Now I respond to: Task23 says: 5
+pos:5:Task21 says: 5
+Now I respond to: Task21 says: 5
+pos:5:Task40 says: 5
+Now I respond to: Task40 says: 5
+pos:5:Task27 says: 5
+Now I respond to: Task27 says: 5
+pos:5:Task28 says: 5
+Now I respond to: Task28 says: 5
+pos:5:Task49 says: 5
+Now I respond to: Task49 says: 5
+pos:5:Task45 says: 5
+Now I respond to: Task45 says: 5
+pos:5:Task54 says: 4
+Now I respond to: Task54 says: 4
+pos:5:Task56 says: 3
+Now I respond to: Task56 says: 3
+pos:5:Task55 says: 2
+Now I respond to: Task55 says: 2
+pos:5:Task53 says: 2
+Now I respond to: Task53 says: 2
+pos:5:Task8 says: 6
+Now I respond to: Task8 says: 6
+pos:5:Task51 says: 2
+Now I respond to: Task51 says: 2
+pos:5:Task31 says: 2
+Now I respond to: Task31 says: 2
+pos:5:Task32 says: 2
+Now I respond to: Task32 says: 2
+pos:5:Task30 says: 2
+Now I respond to: Task30 says: 2
+pos:5:Task34 says: 2
+Now I respond to: Task34 says: 2
+pos:5:Task35 says: 2
+Now I respond to: Task35 says: 2
+pos:5:Task36 says: 2
+Now I respond to: Task36 says: 2
+pos:5:Task37 says: 2
+Now I respond to: Task37 says: 2
+pos:5:Task38 says: 2
+Now I respond to: Task38 says: 2
+pos:5:Task42 says: 2
+Now I respond to: Task42 says: 2
+pos:5:Task43 says: 2
+Now I respond to: Task43 says: 2
+pos:5:Task41 says: 2
+Now I respond to: Task41 says: 2
+pos:5:Task44 says: 2
+Now I respond to: Task44 says: 2
+pos:5:Task46 says: 2
+Now I respond to: Task46 says: 2
+pos:5:Task52 says: 2
+Now I respond to: Task52 says: 2
+pos:5:Task63 says: 2
+Now I respond to: Task63 says: 2
+pos:5:Task64 says: 2
+Now I respond to: Task64 says: 2
+pos:5:Task61 says: 2
+Now I respond to: Task61 says: 2
+pos:5:Task62 says: 2
+Now I respond to: Task62 says: 2
+pos:5:Task57 says: 2
+Now I respond to: Task57 says: 2
+pos:5:Task60 says: 2
+Now I respond to: Task60 says: 2
+pos:5:Task58 says: 2
+Now I respond to: Task58 says: 2
+pos:5:Task71 says: 2
+Now I respond to: Task71 says: 2
+pos:5:Task59 says: 2
+Now I respond to: Task59 says: 2
+pos:5:Task67 says: 1
+Now I respond to: Task67 says: 1
+pos:5:Task66 says: 1
+Now I respond to: Task66 says: 1
+pos:5:Task69 says: 1
+Now I respond to: Task69 says: 1
+pos:5:Task74 says: 1
+Now I respond to: Task74 says: 1
+pos:5:Task73 says: 1
+Now I respond to: Task73 says: 1
+pos:5:Task65 says: 1
+Now I respond to: Task65 says: 1
+pos:5:Task29 says: 4
+Now I respond to: Task29 says: 4
+pos:5:Task68 says: 1
+Now I respond to: Task68 says: 1
+pos:5:Task70 says: 1
+Now I respond to: Task70 says: 1
+pos:5:Task75 says: 1
+Now I respond to: Task75 says: 1
+pos:5:Task33 says: 4
+Now I respond to: Task33 says: 4
+pos:5:Task81 says: 1
+Now I respond to: Task81 says: 1
+pos:5:Task72 says: 0
+Now I respond to: Task72 says: 0
+pos:5:Task98 says: 0
+Now I respond to: Task98 says: 0
+pos:5:Task10 says: 6
+Now I respond to: Task10 says: 6
+pos:5:Task11 says: 6
+Now I respond to: Task11 says: 6
+pos:5:Task6 says: 9
+Now I respond to: Task6 says: 9
+pos:5:Task4 says: 8
+Now I respond to: Task4 says: 8
+pos:5:Task5 says: 9
+Now I respond to: Task5 says: 9
+pos:5:Task1 says: 7
+Now I respond to: Task1 says: 7
+pos:5:Task7 says: 7
+Now I respond to: Task7 says: 7
+pos:5:Task12 says: 6
+Now I respond to: Task12 says: 6
+pos:5:Task3 says: 8
+Now I respond to: Task3 says: 8
+pos:5:Task2 says: 8
+Now I respond to: Task2 says: 8
+pos:5:Task13 says: 6
+Now I respond to: Task13 says: 6
+pos:5:Task14 says: 6
+Now I respond to: Task14 says: 6
+pos:5:Task48 says: 3
+Now I respond to: Task48 says: 3
+pos:5:Task9 says: 7
+Now I respond to: Task9 says: 7
+pos:5:Task39 says: 6
+Now I respond to: Task39 says: 6
+pos:5:Task40 says: 6
+Now I respond to: Task40 says: 6
+pos:5:Task27 says: 6
+Now I respond to: Task27 says: 6
+pos:5:Task28 says: 6
+Now I respond to: Task28 says: 6
+pos:5:Task45 says: 6
+Now I respond to: Task45 says: 6
+pos:5:Task49 says: 6
+Now I respond to: Task49 says: 6
+pos:5:Task54 says: 5
+Now I respond to: Task54 says: 5
+pos:5:Task56 says: 4
+Now I respond to: Task56 says: 4
+pos:5:Task31 says: 3
+Now I respond to: Task31 says: 3
+pos:5:Task32 says: 3
+Now I respond to: Task32 says: 3
+pos:5:Task50 says: 3
+Now I respond to: Task50 says: 3
+pos:5:Task34 says: 3
+Now I respond to: Task34 says: 3
+pos:5:Task35 says: 3
+Now I respond to: Task35 says: 3
+pos:5:Task36 says: 3
+Now I respond to: Task36 says: 3
+pos:5:Task37 says: 3
+Now I respond to: Task37 says: 3
+pos:5:Task38 says: 3
+Now I respond to: Task38 says: 3
+pos:5:Task42 says: 3
+Now I respond to: Task42 says: 3
+pos:5:Task43 says: 3
+Now I respond to: Task43 says: 3
+pos:5:Task41 says: 3
+Now I respond to: Task41 says: 3
+pos:5:Task44 says: 3
+Now I respond to: Task44 says: 3
+pos:5:Task46 says: 3
+Now I respond to: Task46 says: 3
+pos:5:Task8 says: 7
+Now I respond to: Task8 says: 7
+pos:5:Task53 says: 3
+Now I respond to: Task53 says: 3
+pos:5:Task30 says: 3
+Now I respond to: Task30 says: 3
+pos:5:Task51 says: 3
+Now I respond to: Task51 says: 3
+pos:5:Task52 says: 3
+Now I respond to: Task52 says: 3
+pos:5:Task63 says: 3
+Now I respond to: Task63 says: 3
+pos:5:Task64 says: 3
+Now I respond to: Task64 says: 3
+pos:5:Task61 says: 3
+Now I respond to: Task61 says: 3
+pos:5:Task62 says: 3
+Now I respond to: Task62 says: 3
+pos:5:Task57 says: 3
+Now I respond to: Task57 says: 3
+pos:5:Task60 says: 3
+Now I respond to: Task60 says: 3
+pos:5:Task55 says: 3
+Now I respond to: Task55 says: 3
+pos:5:Task71 says: 3
+Now I respond to: Task71 says: 3
+pos:5:Task59 says: 3
+Now I respond to: Task59 says: 3
+pos:5:Task58 says: 3
+Now I respond to: Task58 says: 3
+pos:5:Task66 says: 2
+Now I respond to: Task66 says: 2
+pos:5:Task69 says: 2
+Now I respond to: Task69 says: 2
+pos:5:Task74 says: 2
+Now I respond to: Task74 says: 2
+pos:5:Task67 says: 2
+Now I respond to: Task67 says: 2
+pos:5:Task65 says: 2
+Now I respond to: Task65 says: 2
+pos:5:Task29 says: 5
+Now I respond to: Task29 says: 5
+pos:5:Task68 says: 2
+Now I respond to: Task68 says: 2
+pos:5:Task70 says: 2
+Now I respond to: Task70 says: 2
+pos:5:Task75 says: 2
+Now I respond to: Task75 says: 2
+pos:5:Task73 says: 2
+Now I respond to: Task73 says: 2
+pos:5:Task47 says: 3
+Now I respond to: Task47 says: 3
+pos:5:Task72 says: 1
+Now I respond to: Task72 says: 1
+pos:5:Task98 says: 1
+Now I respond to: Task98 says: 1
+pos:5:Task90 says: 0
+Now I respond to: Task90 says: 0
+pos:5:Task77 says: 0
+Now I respond to: Task77 says: 0
+pos:5:Task78 says: 0
+Now I respond to: Task78 says: 0
+pos:5:Task81 says: 2
+Now I respond to: Task81 says: 2
+pos:5:Task80 says: 0
+Now I respond to: Task80 says: 0
+pos:5:Task79 says: 0
+Now I respond to: Task79 says: 0
+pos:4:
+Task99 says: 0
+Now I respond to:
+Task99 says: 0
+pos:5:Task15 says: 6
+Now I respond to: Task15 says: 6
+pos:5:Task16 says: 6
+Now I respond to: Task16 says: 6
+pos:5:Task17 says: 6
+Now I respond to: Task17 says: 6
+pos:5:Task18 says: 6
+Now I respond to: Task18 says: 6
+pos:5:Task20 says: 6
+Now I respond to: Task20 says: 6
+pos:5:Task19 says: 6
+Now I respond to: Task19 says: 6
+pos:5:Task21 says: 6
+Now I respond to: Task21 says: 6
+pos:5:Task23 says: 6
+Now I respond to: Task23 says: 6
+pos:5:Task22 says: 6
+Now I respond to: Task22 says: 6
+pos:5:Task24 says: 6
+Now I respond to: Task24 says: 6
+pos:5:Task25 says: 6
+Now I respond to: Task25 says: 6
+pos:5:Task26 says: 6
+Now I respond to: Task26 says: 6
+pos:5:Task33 says: 5
+Now I respond to: Task33 says: 5
+pos:5:Task91 says: 0
+Now I respond to: Task91 says: 0
+pos:5:Task76 says: 0
+Now I respond to: Task76 says: 0
+pos:5:Task83 says: 0
+Now I respond to: Task83 says: 0
+pos:5:Task85 says: 0
+Now I respond to: Task85 says: 0
+pos:5:Task86 says: 0
+Now I respond to: Task86 says: 0
+pos:5:Task88 says: 0
+Now I respond to: Task88 says: 0
+pos:5:Task89 says: 0
+Now I respond to: Task89 says: 0
+pos:5:Task92 says: 0
+Now I respond to: Task92 says: 0
+pos:5:Task82 says: 0
+Now I respond to: Task82 says: 0
+pos:5:Task84 says: 0
+Now I respond to: Task84 says: 0
+pos:5:Task87 says: 0
+Now I respond to: Task87 says: 0
+pos:5:Task93 says: 0
+Now I respond to: Task93 says: 0
+pos:5:Task94 says: 0
+Now I respond to: Task94 says: 0
+pos:5:Task96 says: 0
+Now I respond to: Task96 says: 0
+pos:5:Task95 says: 0
+Now I respond to: Task95 says: 0
+pos:5:Task97 says: 0
+Now I respond to: Task97 says: 0
+pos:5:Task10 says: 7
+Now I respond to: Task10 says: 7
+pos:5:Task11 says: 7
+Now I respond to: Task11 says: 7
+pos:5:Task79 says: 1
+Now I respond to: Task79 says: 1
+pos:5:Task4 says: 9
+Now I respond to: Task4 says: 9
+pos:5:Task76 says: 1
+Now I respond to: Task76 says: 1
+pos:5:Task1 says: 8
+Now I respond to: Task1 says: 8
+pos:5:Task7 says: 8
+Now I respond to: Task7 says: 8
+pos:5:Task12 says: 7
+Now I respond to: Task12 says: 7
+pos:5:Task3 says: 9
+Now I respond to: Task3 says: 9
+pos:5:Task2 says: 9
+Now I respond to: Task2 says: 9
+pos:5:Task13 says: 7
+Now I respond to: Task13 says: 7
+pos:5:Task14 says: 7
+Now I respond to: Task14 says: 7
+pos:5:Task82 says: 1
+Now I respond to: Task82 says: 1
+pos:5:Task15 says: 7
+Now I respond to: Task15 says: 7
+pos:5:Task16 says: 7
+Now I respond to: Task16 says: 7
+pos:5:Task17 says: 7
+Now I respond to: Task17 says: 7
+pos:5:Task18 says: 7
+Now I respond to: Task18 says: 7
+pos:5:Task20 says: 7
+Now I respond to: Task20 says: 7
+pos:5:Task19 says: 7
+Now I respond to: Task19 says: 7
+pos:5:Task21 says: 7
+Now I respond to: Task21 says: 7
+pos:5:Task23 says: 7
+Now I respond to: Task23 says: 7
+pos:5:Task22 says: 7
+Now I respond to: Task22 says: 7
+pos:5:Task24 says: 7
+Now I respond to: Task24 says: 7
+pos:5:Task25 says: 7
+Now I respond to: Task25 says: 7
+pos:5:Task26 says: 7
+Now I respond to: Task26 says: 7
+pos:5:Task47 says: 4
+Now I respond to: Task47 says: 4
+pos:5:Task50 says: 4
+Now I respond to: Task50 says: 4
+pos:5:Task48 says: 4
+Now I respond to: Task48 says: 4
+pos:5:Task9 says: 8
+Now I respond to: Task9 says: 8
+pos:5:Task39 says: 7
+Now I respond to: Task39 says: 7
+pos:5:Task40 says: 7
+Now I respond to: Task40 says: 7
+pos:5:Task27 says: 7
+Now I respond to: Task27 says: 7
+pos:5:Task28 says: 7
+Now I respond to: Task28 says: 7
+pos:5:Task35 says: 4
+Now I respond to: Task35 says: 4
+pos:5:Task45 says: 7
+Now I respond to: Task45 says: 7
+pos:5:Task49 says: 7
+Now I respond to: Task49 says: 7
+pos:5:Task54 says: 6
+Now I respond to: Task54 says: 6
+pos:5:Task56 says: 5
+Now I respond to: Task56 says: 5
+pos:5:Task31 says: 4
+Now I respond to: Task31 says: 4
+pos:5:Task32 says: 4
+Now I respond to: Task32 says: 4
+pos:5:Task30 says: 4
+Now I respond to: Task30 says: 4
+pos:5:Task34 says: 4
+Now I respond to: Task34 says: 4
+pos:5:Task36 says: 4
+Now I respond to: Task36 says: 4
+pos:5:Task37 says: 4
+Now I respond to: Task37 says: 4
+pos:5:Task38 says: 4
+Now I respond to: Task38 says: 4
+pos:5:Task42 says: 4
+Now I respond to: Task42 says: 4
+pos:5:Task43 says: 4
+Now I respond to: Task43 says: 4
+pos:5:Task41 says: 4
+Now I respond to: Task41 says: 4
+pos:5:Task44 says: 4
+Now I respond to: Task44 says: 4
+pos:5:Task46 says: 4
+Now I respond to: Task46 says: 4
+pos:5:Task8 says: 8
+Now I respond to: Task8 says: 8
+pos:5:Task65 says: 3
+Now I respond to: Task65 says: 3
+pos:5:Task53 says: 4
+Now I respond to: Task53 says: 4
+pos:5:Task55 says: 4
+Now I respond to: Task55 says: 4
+pos:5:Task51 says: 4
+Now I respond to: Task51 says: 4
+pos:5:Task52 says: 4
+Now I respond to: Task52 says: 4
+pos:5:Task63 says: 4
+Now I respond to: Task63 says: 4
+pos:5:Task64 says: 4
+Now I respond to: Task64 says: 4
+pos:5:Task61 says: 4
+Now I respond to: Task61 says: 4
+pos:5:Task62 says: 4
+Now I respond to: Task62 says: 4
+pos:5:Task57 says: 4
+Now I respond to: Task57 says: 4
+pos:5:Task60 says: 4
+Now I respond to: Task60 says: 4
+pos:5:Task58 says: 4
+Now I respond to: Task58 says: 4
+pos:5:Task71 says: 4
+Now I respond to: Task71 says: 4
+pos:5:Task59 says: 4
+Now I respond to: Task59 says: 4
+pos:5:Task67 says: 3
+Now I respond to: Task67 says: 3
+pos:5:Task66 says: 3
+Now I respond to: Task66 says: 3
+pos:5:Task69 says: 3
+Now I respond to: Task69 says: 3
+pos:5:Task74 says: 3
+Now I respond to: Task74 says: 3
+pos:5:Task73 says: 3
+Now I respond to: Task73 says: 3
+pos:5:Task29 says: 6
+Now I respond to: Task29 says: 6
+pos:5:Task68 says: 3
+Now I respond to: Task68 says: 3
+pos:5:Task70 says: 3
+Now I respond to: Task70 says: 3
+pos:5:Task75 says: 3
+Now I respond to: Task75 says: 3
+pos:5:Task33 says: 6
+Now I respond to: Task33 says: 6
+pos:5:Task81 says: 3
+Now I respond to: Task81 says: 3
+pos:5:Task72 says: 2
+Now I respond to: Task72 says: 2
+pos:5:Task98 says: 2
+Now I respond to: Task98 says: 2
+pos:5:Task90 says: 1
+Now I respond to: Task90 says: 1
+pos:5:Task77 says: 1
+Now I respond to: Task77 says: 1
+pos:5:Task78 says: 1
+Now I respond to: Task78 says: 1
+pos:5:Task91 says: 1
+Now I respond to: Task91 says: 1
+pos:5:Task80 says: 1
+Now I respond to: Task80 says: 1
+pos:5:Task85 says: 1
+Now I respond to: Task85 says: 1
+pos:5:Task83 says: 1
+Now I respond to: Task83 says: 1
+pos:5:Task86 says: 1
+Now I respond to: Task86 says: 1
+pos:5:Task88 says: 1
+Now I respond to: Task88 says: 1
+pos:5:Task89 says: 1
+Now I respond to: Task89 says: 1
+pos:5:Task92 says: 1
+Now I respond to: Task92 says: 1
+pos:5:Task84 says: 1
+Now I respond to: Task84 says: 1
+pos:5:Task87 says: 1
+Now I respond to: Task87 says: 1
+pos:5:Task93 says: 1
+Now I respond to: Task93 says: 1
+pos:5:Task94 says: 1
+Now I respond to: Task94 says: 1
+pos:5:Task96 says: 1
+Now I respond to: Task96 says: 1
+pos:5:Task95 says: 1
+Now I respond to: Task95 says: 1
+pos:5:Task97 says: 1
+Now I respond to: Task97 says: 1
+pos:5:Task10 says: 8
+Now I respond to: Task10 says: 8
+pos:5:Task11 says: 8
+Now I respond to: Task11 says: 8
+pos:5:Task79 says: 2
+Now I respond to: Task79 says: 2
+pos:5:Task46 says: 5
+Now I respond to: Task46 says: 5
+pos:5:Task76 says: 2
+Now I respond to: Task76 says: 2
+pos:5:Task1 says: 9
+Now I respond to: Task1 says: 9
+pos:5:Task7 says: 9
+Now I respond to: Task7 says: 9
+pos:5:Task12 says: 8
+Now I respond to: Task12 says: 8
+pos:5:Task52 says: 5
+Now I respond to: Task52 says: 5
+pos:5:Task64 says: 5
+Now I respond to: Task64 says: 5
+pos:5:Task13 says: 8
+Now I respond to: Task13 says: 8
+pos:5:Task14 says: 8
+Now I respond to: Task14 says: 8
+pos:5:Task82 says: 2
+Now I respond to: Task82 says: 2
+pos:5:Task15 says: 8
+Now I respond to: Task15 says: 8
+pos:5:Task16 says: 8
+Now I respond to: Task16 says: 8
+pos:5:Task17 says: 8
+Now I respond to: Task17 says: 8
+pos:5:Task18 says: 8
+Now I respond to: Task18 says: 8
+pos:5:Task20 says: 8
+Now I respond to: Task20 says: 8
+pos:5:Task19 says: 8
+Now I respond to: Task19 says: 8
+pos:5:Task21 says: 8
+Now I respond to: Task21 says: 8
+pos:5:Task23 says: 8
+Now I respond to: Task23 says: 8
+pos:5:Task22 says: 8
+Now I respond to: Task22 says: 8
+pos:5:Task24 says: 8
+Now I respond to: Task24 says: 8
+pos:5:Task25 says: 8
+Now I respond to: Task25 says: 8
+pos:5:Task26 says: 8
+Now I respond to: Task26 says: 8
+pos:5:Task47 says: 5
+Now I respond to: Task47 says: 5
+pos:5:Task50 says: 5
+Now I respond to: Task50 says: 5
+pos:5:Task48 says: 5
+Now I respond to: Task48 says: 5
+pos:5:Task9 says: 9
+Now I respond to: Task9 says: 9
+pos:5:Task39 says: 8
+Now I respond to: Task39 says: 8
+pos:5:Task27 says: 8
+Now I respond to: Task27 says: 8
+pos:5:Task40 says: 8
+Now I respond to: Task40 says: 8
+pos:5:Task28 says: 8
+Now I respond to: Task28 says: 8
+pos:5:Task45 says: 8
+Now I respond to: Task45 says: 8
+pos:5:Task49 says: 8
+Now I respond to: Task49 says: 8
+pos:5:Task54 says: 7
+Now I respond to: Task54 says: 7
+pos:5:Task56 says: 6
+Now I respond to: Task56 says: 6
+pos:5:Task31 says: 5
+Now I respond to: Task31 says: 5
+pos:5:Task32 says: 5
+Now I respond to: Task32 says: 5
+pos:5:Task30 says: 5
+Now I respond to: Task30 says: 5
+pos:5:Task34 says: 5
+Now I respond to: Task34 says: 5
+pos:5:Task35 says: 5
+Now I respond to: Task35 says: 5
+pos:5:Task36 says: 5
+Now I respond to: Task36 says: 5
+pos:5:Task37 says: 5
+Now I respond to: Task37 says: 5
+pos:5:Task38 says: 5
+Now I respond to: Task38 says: 5
+pos:5:Task42 says: 5
+Now I respond to: Task42 says: 5
+pos:5:Task43 says: 5
+Now I respond to: Task43 says: 5
+pos:5:Task41 says: 5
+Now I respond to: Task41 says: 5
+pos:5:Task44 says: 5
+Now I respond to: Task44 says: 5
+pos:5:Task8 says: 9
+Now I respond to: Task8 says: 9
+pos:5:Task65 says: 4
+Now I respond to: Task65 says: 4
+pos:5:Task53 says: 5
+Now I respond to: Task53 says: 5
+pos:5:Task55 says: 5
+Now I respond to: Task55 says: 5
+pos:5:Task51 says: 5
+Now I respond to: Task51 says: 5
+pos:5:Task63 says: 5
+Now I respond to: Task63 says: 5
+pos:5:Task61 says: 5
+Now I respond to: Task61 says: 5
+pos:5:Task62 says: 5
+Now I respond to: Task62 says: 5
+pos:5:Task57 says: 5
+Now I respond to: Task57 says: 5
+pos:5:Task58 says: 5
+Now I respond to: Task58 says: 5
+pos:5:Task60 says: 5
+Now I respond to: Task60 says: 5
+pos:5:Task71 says: 5
+Now I respond to: Task71 says: 5
+pos:5:Task59 says: 5
+Now I respond to: Task59 says: 5
+pos:5:Task67 says: 4
+Now I respond to: Task67 says: 4
+pos:5:Task66 says: 4
+Now I respond to: Task66 says: 4
+pos:5:Task69 says: 4
+Now I respond to: Task69 says: 4
+pos:5:Task74 says: 4
+Now I respond to: Task74 says: 4
+pos:5:Task73 says: 4
+Now I respond to: Task73 says: 4
+pos:5:Task29 says: 7
+Now I respond to: Task29 says: 7
+pos:5:Task68 says: 4
+Now I respond to: Task68 says: 4
+pos:5:Task81 says: 4
+Now I respond to: Task81 says: 4
+pos:5:Task75 says: 4
+Now I respond to: Task75 says: 4
+pos:5:Task33 says: 7
+Now I respond to: Task33 says: 7
+pos:5:Task72 says: 3
+Now I respond to: Task72 says: 3
+pos:5:Task98 says: 3
+Now I respond to: Task98 says: 3
+pos:5:Task90 says: 2
+Now I respond to: Task90 says: 2
+pos:5:Task77 says: 2
+Now I respond to: Task77 says: 2
+pos:5:Task78 says: 2
+Now I respond to: Task78 says: 2
+pos:5:Task80 says: 2
+Now I respond to: Task80 says: 2
+pos:5:Task91 says: 2
+Now I respond to: Task91 says: 2
+pos:5:Task85 says: 2
+Now I respond to: Task85 says: 2
+pos:5:Task70 says: 4
+Now I respond to: Task70 says: 4
+pos:5:Task83 says: 2
+Now I respond to: Task83 says: 2
+pos:5:Task86 says: 2
+Now I respond to: Task86 says: 2
+pos:5:Task88 says: 2
+Now I respond to: Task88 says: 2
+pos:5:Task89 says: 2
+Now I respond to: Task89 says: 2
+pos:5:Task92 says: 2
+Now I respond to: Task92 says: 2
+pos:5:Task84 says: 2
+Now I respond to: Task84 says: 2
+pos:5:Task87 says: 2
+Now I respond to: Task87 says: 2
+pos:5:Task93 says: 2
+Now I respond to: Task93 says: 2
+pos:5:Task94 says: 2
+Now I respond to: Task94 says: 2
+pos:5:Task96 says: 2
+Now I respond to: Task96 says: 2
+pos:5:Task95 says: 2
+Now I respond to: Task95 says: 2
+pos:5:Task97 says: 2
+Now I respond to: Task97 says: 2
+pos:5:Task10 says: 9
+Now I respond to: Task10 says: 9
+pos:5:Task11 says: 9
+Now I respond to: Task11 says: 9
+pos:5:Task79 says: 3
+Now I respond to: Task79 says: 3
+pos:5:Task46 says: 6
+Now I respond to: Task46 says: 6
+pos:5:Task76 says: 3
+Now I respond to: Task76 says: 3
+pos:5:Task41 says: 6
+Now I respond to: Task41 says: 6
+pos:5:Task43 says: 6
+Now I respond to: Task43 says: 6
+pos:5:Task12 says: 9
+Now I respond to: Task12 says: 9
+pos:5:Task52 says: 6
+Now I respond to: Task52 says: 6
+pos:5:Task64 says: 6
+Now I respond to: Task64 says: 6
+pos:5:Task13 says: 9
+Now I respond to: Task13 says: 9
+pos:5:Task14 says: 9
+Now I respond to: Task14 says: 9
+pos:5:Task82 says: 3
+Now I respond to: Task82 says: 3
+pos:5:Task15 says: 9
+Now I respond to: Task15 says: 9
+pos:5:Task16 says: 9
+Now I respond to: Task16 says: 9
+pos:5:Task17 says: 9
+Now I respond to: Task17 says: 9
+pos:5:Task18 says: 9
+Now I respond to: Task18 says: 9
+pos:5:Task20 says: 9
+Now I respond to: Task20 says: 9
+pos:5:Task19 says: 9
+Now I respond to: Task19 says: 9
+pos:5:Task21 says: 9
+Now I respond to: Task21 says: 9
+pos:5:Task23 says: 9
+Now I respond to: Task23 says: 9
+pos:5:Task22 says: 9
+Now I respond to: Task22 says: 9
+pos:5:Task24 says: 9
+Now I respond to: Task24 says: 9
+pos:5:Task25 says: 9
+Now I respond to: Task25 says: 9
+pos:5:Task26 says: 9
+Now I respond to: Task26 says: 9
+pos:5:Task47 says: 6
+Now I respond to: Task47 says: 6
+pos:5:Task50 says: 6
+Now I respond to: Task50 says: 6
+pos:5:Task48 says: 6
+Now I respond to: Task48 says: 6
+pos:5:Task81 says: 5
+Now I respond to: Task81 says: 5
+pos:5:Task39 says: 9
+Now I respond to: Task39 says: 9
+pos:5:Task40 says: 9
+Now I respond to: Task40 says: 9
+pos:5:Task27 says: 9
+Now I respond to: Task27 says: 9
+pos:5:Task28 says: 9
+Now I respond to: Task28 says: 9
+pos:5:Task45 says: 9
+Now I respond to: Task45 says: 9
+pos:5:Task49 says: 9
+Now I respond to: Task49 says: 9
+pos:5:Task54 says: 8
+Now I respond to: Task54 says: 8
+pos:5:Task56 says: 7
+Now I respond to: Task56 says: 7
+pos:5:Task31 says: 6
+Now I respond to: Task31 says: 6
+pos:5:Task32 says: 6
+Now I respond to: Task32 says: 6
+pos:5:Task30 says: 6
+Now I respond to: Task30 says: 6
+pos:5:Task34 says: 6
+Now I respond to: Task34 says: 6
+pos:5:Task35 says: 6
+Now I respond to: Task35 says: 6
+pos:5:Task36 says: 6
+Now I respond to: Task36 says: 6
+pos:5:Task37 says: 6
+Now I respond to: Task37 says: 6
+pos:5:Task38 says: 6
+Now I respond to: Task38 says: 6
+pos:5:Task42 says: 6
+Now I respond to: Task42 says: 6
+pos:5:Task44 says: 6
+Now I respond to: Task44 says: 6
+pos:5:Task65 says: 5
+Now I respond to: Task65 says: 5
+pos:5:Task53 says: 6
+Now I respond to: Task53 says: 6
+pos:5:Task55 says: 6
+Now I respond to: Task55 says: 6
+pos:5:Task51 says: 6
+Now I respond to: Task51 says: 6
+pos:5:Task57 says: 6
+Now I respond to: Task57 says: 6
+pos:5:Task58 says: 6
+Now I respond to: Task58 says: 6
+pos:5:Task71 says: 6
+Now I respond to: Task71 says: 6
+pos:5:Task61 says: 6
+Now I respond to: Task61 says: 6
+pos:5:Task59 says: 6
+Now I respond to: Task59 says: 6
+pos:5:Task62 says: 6
+Now I respond to: Task62 says: 6
+pos:5:Task67 says: 5
+Now I respond to: Task67 says: 5
+pos:5:Task60 says: 6
+Now I respond to: Task60 says: 6
+pos:5:Task97 says: 3
+Now I respond to: Task97 says: 3
+pos:5:Task63 says: 6
+Now I respond to: Task63 says: 6
+pos:5:Task66 says: 5
+Now I respond to: Task66 says: 5
+pos:5:Task69 says: 5
+Now I respond to: Task69 says: 5
+pos:5:Task74 says: 5
+Now I respond to: Task74 says: 5
+pos:5:Task73 says: 5
+Now I respond to: Task73 says: 5
+pos:5:Task29 says: 8
+Now I respond to: Task29 says: 8
+pos:5:Task68 says: 5
+Now I respond to: Task68 says: 5
+pos:5:Task75 says: 5
+Now I respond to: Task75 says: 5
+pos:5:Task72 says: 4
+Now I respond to: Task72 says: 4
+pos:5:Task33 says: 8
+Now I respond to: Task33 says: 8
+pos:5:Task98 says: 4
+Now I respond to: Task98 says: 4
+pos:5:Task90 says: 3
+Now I respond to: Task90 says: 3
+pos:5:Task77 says: 3
+Now I respond to: Task77 says: 3
+pos:5:Task80 says: 3
+Now I respond to: Task80 says: 3
+pos:5:Task78 says: 3
+Now I respond to: Task78 says: 3
+pos:5:Task91 says: 3
+Now I respond to: Task91 says: 3
+pos:5:Task85 says: 3
+Now I respond to: Task85 says: 3
+pos:5:Task83 says: 3
+Now I respond to: Task83 says: 3
+pos:5:Task70 says: 5
+Now I respond to: Task70 says: 5
+pos:5:Task86 says: 3
+Now I respond to: Task86 says: 3
+pos:5:Task88 says: 3
+Now I respond to: Task88 says: 3
+pos:5:Task89 says: 3
+Now I respond to: Task89 says: 3
+pos:5:Task92 says: 3
+Now I respond to: Task92 says: 3
+pos:5:Task84 says: 3
+Now I respond to: Task84 says: 3
+pos:5:Task87 says: 3
+Now I respond to: Task87 says: 3
+pos:5:Task93 says: 3
+Now I respond to: Task93 says: 3
+pos:5:Task94 says: 3
+Now I respond to: Task94 says: 3
+pos:5:Task96 says: 3
+Now I respond to: Task96 says: 3
+pos:5:Task95 says: 3
+Now I respond to: Task95 says: 3
+pos:5:Task31 says: 7
+Now I respond to: Task31 says: 7
+pos:5:Task56 says: 8
+Now I respond to: Task56 says: 8
+pos:5:Task79 says: 4
+Now I respond to: Task79 says: 4
+pos:5:Task46 says: 7
+Now I respond to: Task46 says: 7
+pos:5:Task76 says: 4
+Now I respond to: Task76 says: 4
+pos:5:Task41 says: 7
+Now I respond to: Task41 says: 7
+pos:5:Task43 says: 7
+Now I respond to: Task43 says: 7
+pos:5:Task54 says: 9
+Now I respond to: Task54 says: 9
+pos:5:Task52 says: 7
+Now I respond to: Task52 says: 7
+pos:5:Task64 says: 7
+Now I respond to: Task64 says: 7
+pos:5:Task81 says: 6
+Now I respond to: Task81 says: 6
+pos:5:Task48 says: 7
+Now I respond to: Task48 says: 7
+pos:5:Task82 says: 4
+Now I respond to: Task82 says: 4
+pos:5:Task32 says: 7
+Now I respond to: Task32 says: 7
+pos:5:Task50 says: 7
+Now I respond to: Task50 says: 7
+pos:5:Task30 says: 7
+Now I respond to: Task30 says: 7
+pos:5:Task47 says: 7
+Now I respond to: Task47 says: 7
+pos:5:Task37 says: 7
+Now I respond to: Task37 says: 7
+pos:5:Task62 says: 7
+Now I respond to: Task62 says: 7
+pos:5:Task60 says: 7
+Now I respond to: Task60 says: 7
+pos:5:Task67 says: 6
+Now I respond to: Task67 says: 6
+pos:5:Task97 says: 4
+Now I respond to: Task97 says: 4
+pos:5:Task61 says: 7
+Now I respond to: Task61 says: 7
+pos:5:Task71 says: 7
+Now I respond to: Task71 says: 7
+pos:5:Task59 says: 7
+Now I respond to: Task59 says: 7
+pos:5:Task34 says: 7
+Now I respond to: Task34 says: 7
+pos:5:Task35 says: 7
+Now I respond to: Task35 says: 7
+pos:5:Task36 says: 7
+Now I respond to: Task36 says: 7
+pos:5:Task38 says: 7
+Now I respond to: Task38 says: 7
+pos:5:Task42 says: 7
+Now I respond to: Task42 says: 7
+pos:5:Task44 says: 7
+Now I respond to: Task44 says: 7
+pos:5:Task65 says: 6
+Now I respond to: Task65 says: 6
+pos:5:Task53 says: 7
+Now I respond to: Task53 says: 7
+pos:5:Task55 says: 7
+Now I respond to: Task55 says: 7
+pos:5:Task51 says: 7
+Now I respond to: Task51 says: 7
+pos:5:Task57 says: 7
+Now I respond to: Task57 says: 7
+pos:5:Task58 says: 7
+Now I respond to: Task58 says: 7
+pos:5:Task66 says: 6
+Now I respond to: Task66 says: 6
+pos:5:Task69 says: 6
+Now I respond to: Task69 says: 6
+pos:5:Task74 says: 6
+Now I respond to: Task74 says: 6
+pos:5:Task73 says: 6
+Now I respond to: Task73 says: 6
+pos:5:Task29 says: 9
+Now I respond to: Task29 says: 9
+pos:5:Task33 says: 9
+Now I respond to: Task33 says: 9
+pos:5:Task68 says: 6
+Now I respond to: Task68 says: 6
+pos:5:Task75 says: 6
+Now I respond to: Task75 says: 6
+pos:5:Task78 says: 4
+Now I respond to: Task78 says: 4
+pos:5:Task91 says: 4
+Now I respond to: Task91 says: 4
+pos:5:Task80 says: 4
+Now I respond to: Task80 says: 4
+pos:5:Task72 says: 5
+Now I respond to: Task72 says: 5
+pos:5:Task90 says: 4
+Now I respond to: Task90 says: 4
+pos:5:Task98 says: 5
+Now I respond to: Task98 says: 5
+pos:5:Task77 says: 4
+Now I respond to: Task77 says: 4
+pos:5:Task85 says: 4
+Now I respond to: Task85 says: 4
+pos:5:Task63 says: 7
+Now I respond to: Task63 says: 7
+pos:5:Task83 says: 4
+Now I respond to: Task83 says: 4
+pos:5:Task70 says: 6
+Now I respond to: Task70 says: 6
+pos:5:Task86 says: 4
+Now I respond to: Task86 says: 4
+pos:5:Task88 says: 4
+Now I respond to: Task88 says: 4
+pos:5:Task89 says: 4
+Now I respond to: Task89 says: 4
+pos:5:Task92 says: 4
+Now I respond to: Task92 says: 4
+pos:5:Task84 says: 4
+Now I respond to: Task84 says: 4
+pos:5:Task87 says: 4
+Now I respond to: Task87 says: 4
+pos:5:Task93 says: 4
+Now I respond to: Task93 says: 4
+pos:5:Task94 says: 4
+Now I respond to: Task94 says: 4
+pos:5:Task96 says: 4
+Now I respond to: Task96 says: 4
+pos:5:Task95 says: 4
+Now I respond to: Task95 says: 4
+pos:5:Task31 says: 8
+Now I respond to: Task31 says: 8
+pos:5:Task56 says: 9
+Now I respond to: Task56 says: 9
+pos:5:Task79 says: 5
+Now I respond to: Task79 says: 5
+pos:5:Task46 says: 8
+Now I respond to: Task46 says: 8
+pos:5:Task76 says: 5
+Now I respond to: Task76 says: 5
+pos:5:Task41 says: 8
+Now I respond to: Task41 says: 8
+pos:5:Task43 says: 8
+Now I respond to: Task43 says: 8
+pos:5:Task34 says: 8
+Now I respond to: Task34 says: 8
+pos:5:Task52 says: 8
+Now I respond to: Task52 says: 8
+pos:5:Task64 says: 8
+Now I respond to: Task64 says: 8
+pos:5:Task81 says: 7
+Now I respond to: Task81 says: 7
+pos:5:Task48 says: 8
+Now I respond to: Task48 says: 8
+pos:5:Task82 says: 5
+Now I respond to: Task82 says: 5
+pos:5:Task32 says: 8
+Now I respond to: Task32 says: 8
+pos:5:Task50 says: 8
+Now I respond to: Task50 says: 8
+pos:5:Task30 says: 8
+Now I respond to: Task30 says: 8
+pos:5:Task47 says: 8
+Now I respond to: Task47 says: 8
+pos:5:Task37 says: 8
+Now I respond to: Task37 says: 8
+pos:5:Task62 says: 8
+Now I respond to: Task62 says: 8
+pos:5:Task60 says: 8
+Now I respond to: Task60 says: 8
+pos:5:Task67 says: 7
+Now I respond to: Task67 says: 7
+pos:5:Task97 says: 5
+Now I respond to: Task97 says: 5
+pos:5:Task61 says: 8
+Now I respond to: Task61 says: 8
+pos:5:Task71 says: 8
+Now I respond to: Task71 says: 8
+pos:5:Task59 says: 8
+Now I respond to: Task59 says: 8
+pos:5:Task35 says: 8
+Now I respond to: Task35 says: 8
+pos:5:Task36 says: 8
+Now I respond to: Task36 says: 8
+pos:5:Task38 says: 8
+Now I respond to: Task38 says: 8
+pos:5:Task42 says: 8
+Now I respond to: Task42 says: 8
+pos:5:Task44 says: 8
+Now I respond to: Task44 says: 8
+pos:5:Task65 says: 7
+Now I respond to: Task65 says: 7
+pos:5:Task53 says: 8
+Now I respond to: Task53 says: 8
+pos:5:Task55 says: 8
+Now I respond to: Task55 says: 8
+pos:5:Task51 says: 8
+Now I respond to: Task51 says: 8
+pos:5:Task57 says: 8
+Now I respond to: Task57 says: 8
+pos:5:Task58 says: 8
+Now I respond to: Task58 says: 8
+pos:5:Task66 says: 7
+Now I respond to: Task66 says: 7
+pos:5:Task69 says: 7
+Now I respond to: Task69 says: 7
+pos:5:Task74 says: 7
+Now I respond to: Task74 says: 7
+pos:5:Task73 says: 7
+Now I respond to: Task73 says: 7
+pos:5:Task77 says: 5
+Now I respond to: Task77 says: 5
+pos:5:Task75 says: 7
+Now I respond to: Task75 says: 7
+pos:5:Task78 says: 5
+Now I respond to: Task78 says: 5
+pos:5:Task68 says: 7
+Now I respond to: Task68 says: 7
+pos:5:Task89 says: 5
+Now I respond to: Task89 says: 5
+pos:5:Task91 says: 5
+Now I respond to: Task91 says: 5
+pos:5:Task72 says: 6
+Now I respond to: Task72 says: 6
+pos:5:Task80 says: 5
+Now I respond to: Task80 says: 5
+pos:5:Task90 says: 5
+Now I respond to: Task90 says: 5
+pos:5:Task98 says: 6
+Now I respond to: Task98 says: 6
+pos:5:Task85 says: 5
+Now I respond to: Task85 says: 5
+pos:5:Task63 says: 8
+Now I respond to: Task63 says: 8
+pos:5:Task83 says: 5
+Now I respond to: Task83 says: 5
+pos:5:Task86 says: 5
+Now I respond to: Task86 says: 5
+pos:5:Task88 says: 5
+Now I respond to: Task88 says: 5
+pos:5:Task70 says: 7
+Now I respond to: Task70 says: 7
+pos:5:Task92 says: 5
+Now I respond to: Task92 says: 5
+pos:5:Task84 says: 5
+Now I respond to: Task84 says: 5
+pos:5:Task87 says: 5
+Now I respond to: Task87 says: 5
+pos:5:Task93 says: 5
+Now I respond to: Task93 says: 5
+pos:5:Task94 says: 5
+Now I respond to: Task94 says: 5
+pos:5:Task96 says: 5
+Now I respond to: Task96 says: 5
+pos:5:Task95 says: 5
+Now I respond to: Task95 says: 5
+pos:5:Task31 says: 9
+Now I respond to: Task31 says: 9
+pos:5:Task30 says: 9
+Now I respond to: Task30 says: 9
+pos:5:Task79 says: 6
+Now I respond to: Task79 says: 6
+pos:5:Task46 says: 9
+Now I respond to: Task46 says: 9
+pos:5:Task76 says: 6
+Now I respond to: Task76 says: 6
+pos:5:Task41 says: 9
+Now I respond to: Task41 says: 9
+pos:5:Task43 says: 9
+Now I respond to: Task43 says: 9
+pos:5:Task34 says: 9
+Now I respond to: Task34 says: 9
+pos:5:Task52 says: 9
+Now I respond to: Task52 says: 9
+pos:5:Task64 says: 9
+Now I respond to: Task64 says: 9
+pos:5:Task81 says: 8
+Now I respond to: Task81 says: 8
+pos:5:Task48 says: 9
+Now I respond to: Task48 says: 9
+pos:5:Task82 says: 6
+Now I respond to: Task82 says: 6
+pos:5:Task32 says: 9
+Now I respond to: Task32 says: 9
+pos:5:Task50 says: 9
+Now I respond to: Task50 says: 9
+pos:5:Task47 says: 9
+Now I respond to: Task47 says: 9
+pos:5:Task37 says: 9
+Now I respond to: Task37 says: 9
+pos:5:Task62 says: 9
+Now I respond to: Task62 says: 9
+pos:5:Task60 says: 9
+Now I respond to: Task60 says: 9
+pos:5:Task67 says: 8
+Now I respond to: Task67 says: 8
+pos:5:Task97 says: 6
+Now I respond to: Task97 says: 6
+pos:5:Task61 says: 9
+Now I respond to: Task61 says: 9
+pos:5:Task71 says: 9
+Now I respond to: Task71 says: 9
+pos:5:Task59 says: 9
+Now I respond to: Task59 says: 9
+pos:5:Task35 says: 9
+Now I respond to: Task35 says: 9
+pos:5:Task36 says: 9
+Now I respond to: Task36 says: 9
+pos:5:Task38 says: 9
+Now I respond to: Task38 says: 9
+pos:5:Task97 says: 7
+Now I respond to: Task97 says: 7
+pos:5:Task67 says: 9
+Now I respond to: Task67 says: 9
+pos:5:Task76 says: 7
+Now I respond to: Task76 says: 7
+pos:5:Task79 says: 7
+Now I respond to: Task79 says: 7
+pos:5:Task81 says: 9
+Now I respond to: Task81 says: 9
+pos:5:Task97 says: 8
+Now I respond to: Task97 says: 8
+pos:5:Task42 says: 9
+Now I respond to: Task42 says: 9
+pos:5:Task79 says: 8
+Now I respond to: Task79 says: 8
+pos:5:Task76 says: 8
+Now I respond to: Task76 says: 8
+pos:5:Task82 says: 7
+Now I respond to: Task82 says: 7
+pos:5:Task95 says: 6
+Now I respond to: Task95 says: 6
+pos:5:Task96 says: 6
+Now I respond to: Task96 says: 6
+pos:5:Task94 says: 6
+Now I respond to: Task94 says: 6
+pos:5:Task93 says: 6
+Now I respond to: Task93 says: 6
+pos:5:Task87 says: 6
+Now I respond to: Task87 says: 6
+pos:5:Task84 says: 6
+Now I respond to: Task84 says: 6
+pos:5:Task92 says: 6
+Now I respond to: Task92 says: 6
+pos:5:Task82 says: 8
+Now I respond to: Task82 says: 8
+pos:5:Task79 says: 9
+Now I respond to: Task79 says: 9
+pos:5:Task70 says: 8
+Now I respond to: Task70 says: 8
+pos:5:Task88 says: 6
+Now I respond to: Task88 says: 6
+pos:5:Task44 says: 9
+Now I respond to: Task44 says: 9
+pos:5:Task65 says: 8
+Now I respond to: Task65 says: 8
+pos:5:Task53 says: 9
+Now I respond to: Task53 says: 9
+pos:5:Task55 says: 9
+Now I respond to: Task55 says: 9
+pos:5:Task51 says: 9
+Now I respond to: Task51 says: 9
+pos:5:Task57 says: 9
+Now I respond to: Task57 says: 9
+pos:5:Task58 says: 9
+Now I respond to: Task58 says: 9
+pos:5:Task66 says: 8
+Now I respond to: Task66 says: 8
+pos:5:Task69 says: 8
+Now I respond to: Task69 says: 8
+pos:5:Task74 says: 8
+Now I respond to: Task74 says: 8
+pos:5:Task73 says: 8
+Now I respond to: Task73 says: 8
+pos:5:Task77 says: 6
+Now I respond to: Task77 says: 6
+pos:5:Task75 says: 8
+Now I respond to: Task75 says: 8
+pos:5:Task78 says: 6
+Now I respond to: Task78 says: 6
+pos:5:Task68 says: 8
+Now I respond to: Task68 says: 8
+pos:5:Task89 says: 6
+Now I respond to: Task89 says: 6
+pos:5:Task91 says: 6
+Now I respond to: Task91 says: 6
+pos:5:Task72 says: 7
+Now I respond to: Task72 says: 7
+pos:5:Task80 says: 6
+Now I respond to: Task80 says: 6
+pos:5:Task90 says: 6
+Now I respond to: Task90 says: 6
+pos:5:Task98 says: 7
+Now I respond to: Task98 says: 7
+pos:5:Task85 says: 6
+Now I respond to: Task85 says: 6
+pos:5:Task63 says: 9
+Now I respond to: Task63 says: 9
+pos:5:Task83 says: 6
+Now I respond to: Task83 says: 6
+pos:5:Task86 says: 6
+Now I respond to: Task86 says: 6
+pos:5:Task97 says: 9
+Now I respond to: Task97 says: 9
+pos:5:Task76 says: 9
+Now I respond to: Task76 says: 9
+pos:5:Task93 says: 7
+Now I respond to: Task93 says: 7
+pos:5:Task87 says: 7
+Now I respond to: Task87 says: 7
+pos:5:Task84 says: 7
+Now I respond to: Task84 says: 7
+pos:5:Task92 says: 7
+Now I respond to: Task92 says: 7
+pos:5:Task95 says: 7
+Now I respond to: Task95 says: 7
+pos:5:Task94 says: 7
+Now I respond to: Task94 says: 7
+pos:5:Task96 says: 7
+Now I respond to: Task96 says: 7
+pos:5:Task82 says: 9
+Now I respond to: Task82 says: 9
+pos:5:Task70 says: 9
+Now I respond to: Task70 says: 9
+pos:5:Task88 says: 7
+Now I respond to: Task88 says: 7
+pos:5:Task65 says: 9
+Now I respond to: Task65 says: 9
+pos:5:Task66 says: 9
+Now I respond to: Task66 says: 9
+pos:5:Task69 says: 9
+Now I respond to: Task69 says: 9
+pos:5:Task74 says: 9
+Now I respond to: Task74 says: 9
+pos:5:Task68 says: 9
+Now I respond to: Task68 says: 9
+pos:5:Task73 says: 9
+Now I respond to: Task73 says: 9
+pos:5:Task75 says: 9
+Now I respond to: Task75 says: 9
+pos:5:Task78 says: 7
+Now I respond to: Task78 says: 7
+pos:5:Task77 says: 7
+Now I respond to: Task77 says: 7
+pos:5:Task85 says: 7
+Now I respond to: Task85 says: 7
+pos:5:Task83 says: 7
+Now I respond to: Task83 says: 7
+pos:5:Task98 says: 8
+Now I respond to: Task98 says: 8
+pos:5:Task90 says: 7
+Now I respond to: Task90 says: 7
+pos:5:Task89 says: 7
+Now I respond to: Task89 says: 7
+pos:5:Task72 says: 8
+Now I respond to: Task72 says: 8
+pos:5:Task91 says: 7
+Now I respond to: Task91 says: 7
+pos:5:Task80 says: 7
+Now I respond to: Task80 says: 7
+pos:5:Task86 says: 7
+Now I respond to: Task86 says: 7
+pos:5:Task84 says: 8
+Now I respond to: Task84 says: 8
+pos:5:Task87 says: 8
+Now I respond to: Task87 says: 8
+pos:5:Task92 says: 8
+Now I respond to: Task92 says: 8
+pos:5:Task88 says: 8
+Now I respond to: Task88 says: 8
+pos:5:Task95 says: 8
+Now I respond to: Task95 says: 8
+pos:5:Task93 says: 8
+Now I respond to: Task93 says: 8
+pos:5:Task94 says: 8
+Now I respond to: Task94 says: 8
+pos:5:Task96 says: 8
+Now I respond to: Task96 says: 8
+pos:5:Task77 says: 8
+Now I respond to: Task77 says: 8
+pos:5:Task78 says: 8
+Now I respond to: Task78 says: 8
+pos:5:Task91 says: 8
+Now I respond to: Task91 says: 8
+pos:5:Task80 says: 8
+Now I respond to: Task80 says: 8
+pos:5:Task95 says: 9
+Now I respond to: Task95 says: 9
+pos:5:Task90 says: 8
+Now I respond to: Task90 says: 8
+pos:5:Task87 says: 9
+Now I respond to: Task87 says: 9
+pos:5:Task84 says: 9
+Now I respond to: Task84 says: 9
+pos:5:Task77 says: 9
+Now I respond to: Task77 says: 9
+pos:5:Task83 says: 8
+Now I respond to: Task83 says: 8
+pos:5:Task94 says: 9
+Now I respond to: Task94 says: 9
+pos:5:Task96 says: 9
+Now I respond to: Task96 says: 9
+pos:5:Task85 says: 8
+Now I respond to: Task85 says: 8
+pos:5:Task98 says: 9
+Now I respond to: Task98 says: 9
+pos:5:Task89 says: 8
+Now I respond to: Task89 says: 8
+pos:5:Task72 says: 9
+Now I respond to: Task72 says: 9
+pos:5:Task86 says: 8
+Now I respond to: Task86 says: 8
+pos:5:Task92 says: 9
+Now I respond to: Task92 says: 9
+pos:5:Task88 says: 9
+Now I respond to: Task88 says: 9
+pos:5:Task93 says: 9
+Now I respond to: Task93 says: 9
+pos:5:Task78 says: 9
+Now I respond to: Task78 says: 9
+pos:5:Task91 says: 9
+Now I respond to: Task91 says: 9
+pos:5:Task80 says: 9
+Now I respond to: Task80 says: 9
+pos:5:Task86 says: 9
+Now I respond to: Task86 says: 9
+pos:5:Task90 says: 9
+Now I respond to: Task90 says: 9
+pos:5:Task89 says: 9
+Now I respond to: Task89 says: 9
+pos:5:Task83 says: 9
+Now I respond to: Task83 says: 9
+pos:5:Task85 says: 9
+Now I respond to: Task85 says: 9

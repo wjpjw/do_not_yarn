@@ -5,10 +5,14 @@
 #ifndef DATAACCESSPROXY_GLOBALTASKQUEUE_H
 #define DATAACCESSPROXY_GLOBALTASKQUEUE_H
 
+#include "ConcurrentBlockingQueue.h"
+#include "DataAccessTask.h"
 
 class GlobalTaskQueue {
 public:
-    int A;
+    GlobalTaskQueue();
+private:
+    ConcurrentBlockingQueue<DataAccessTask> queue;
 };
 
 

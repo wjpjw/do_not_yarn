@@ -4,10 +4,9 @@
 
 #include "RouterSocket.h"
 
-#define MAXHP 4
-
-RouterSocket::RouterSocket(Context& context, int port, Callback callback)
-        :socket(context, ZMQ_ROUTER), port(port), callback(callback), hp(MAXHP)
+RouterSocket::RouterSocket(Context& context, int port, Callback callback, int nr_threads)
+        :socket(context, ZMQ_ROUTER), port(port),
+         callback(callback), threadpool(nr_threads), context(context)
 {
     socket.bind("tcp://*:"+boost::lexical_cast<String>(port));
 }
@@ -24,7 +23,13 @@ void RouterSocket::recvFromReq()
     Message content_message;
     socket.recv(&content_message);
     socket.recv(&content_message);
-    callback(addr_message, content_message, *this);
+    //todo performance test
+    String addr=str(addr_message);
+    String content=str(content_message);
+    //这里必须以值语义捕获addr与content，复制到线程栈中。用户发过来的都是很小的请求报文，复制一下问题不大。
+    threadpool.execute<Functor>([this, addr, content](){
+        this->callback(addr, content, context);
+    });
 }
 
 void RouterSocket::sendToReq(Message& addr, Message& content)
